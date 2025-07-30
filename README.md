@@ -8,7 +8,7 @@ I enjoy turning ideas into real, working products — from front-end interfaces 
 ---
 
 ## 🛠️ Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,mongodb,aws,docker,git,html,css,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,nestjs,express,mongodb,mysql,firebase,aws,docker,postman,git,github,html,css,python,java,mui,tailwind,vite,sass,redux,jest,notion,slack,zeplin,jira)](https://skillicons.dev)
 
 ---
 
