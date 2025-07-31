@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Leo Lee
 
+🔗 [**About Me**](https://foliage21.github.io/HomePage/).
+
 💻 Full Stack Developer based in Adelaide, Australia.  
 I enjoy turning ideas into real, working products — from front-end interfaces to back-end logic.  
 
