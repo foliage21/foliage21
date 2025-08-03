@@ -14,8 +14,8 @@ I enjoy turning ideas into real, working products — from front-end interfaces 
 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Zeplin](https://img.shields.io/badge/Zeplin-F7A81B?style=for-the-badge&logo=zeplin&logoColor=white)
----
 
 ## 🚀 Some Projects
 - 📱 **SplitMate**: Android multi-user bill splitting app  
